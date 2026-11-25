@@ -5,6 +5,7 @@ A SLIIT IT3101 Data Warehousing and Business Intelligence group project that tur
 [Dashboard views](#dashboard-views) · [Architecture](#architecture) · [SQL scripts](SQL/) · [Validation](#validation)
 
 ## Dashboard views
+[Download the Power BI dashboard (.pbix)](ClinicalOperationsDashboard.pbix)
 
 | Encounters | Synthetic patients | Average claim cost per encounter |
 | ---: | ---: | ---: |
